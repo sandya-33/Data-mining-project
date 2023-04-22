@@ -1,5 +1,4 @@
 # Data-mining-project
-CpSc 8650 (Section 1), Data Mining Course Project
 Quality Evaluation of Skull Stripped Brain MRI Images
 Background
 Brain MRI imaging has been widely used by neurologists and neuroscientists in
